@@ -8,9 +8,12 @@ Simple Shell in C (NOT FOR WINDOWS)
    ```
 2. Compile.
    ```
+   mkdir cmake-build-debug
+   cd cmake-build-debug
+   cmake ..
    make
    ```
 3. Run.
    ```
-   ./neo
+   ./NeoShell
    ```
